@@ -3,10 +3,10 @@
   "name": "Catppuccin",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "0.1.8-alpha",
+  "version": "0.1.9-alpha",
   "description": "Soothing pastel theme for Standard Notes.",
   "url": "https://raw.githubusercontent.com/rio-codes/catppuccin-standardnotes/main/main.css",
-  "download_url": "https://github.com/rio-codes/catppuccin-standardnotes/archive/refs/tags/v0.1.8-alpha.zip",
+  "download_url": "https://github.com/rio-codes/catppuccin-standardnotes/archive/refs/tags/v0.1.9-alpha.zip",
   "latest_url": "https://raw.githubusercontent.com/rio-codes/catppuccin-standardnotes/main/ext.json",
   "marketing_url": "https://github.com/catppuccin/catppuccin",
   "thumbnail_url": "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png"
