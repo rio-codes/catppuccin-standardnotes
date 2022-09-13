@@ -2,15 +2,13 @@
   --background-1: #303446;     /* frappe base */
   --background-2: #292c3c;     /* frappe mantle */
 
-  --foreground-color: #c6d0f5; /* frappe text */
+  --foreground-color-1: #c6d0f5; /* frappe text */
+  --foreground-color-2: #b5bfe2; /* frappe subtext1 */
+  --foreground-color-3: #a5adce; /* frappe subtext0 */
   --highlight-color: #ca9ee6;  /* frappe mauve */
+  --highlight-contrast: #8caaee; /* frappe blue */
   --border-color: #f2d5cf;     /* frappe rosewater */
   --pre-color: #e78284;        /* frappe red */
-
-  --content-1: #ef9f76;        /* frappe peach */
-  --content-2: #a6d189;        /* frappe green */
-  --content-3: #81c8be;        /* frappe teal */
-  --content-4: #8caaee;        /* frappe blue */
 
   /* Footer */
   --footer-bar-border-top-color: 0;
@@ -43,21 +41,21 @@
   --sn-stylekit-shadow-color: var(--background-2);
 
   --sn-stylekit-background-color: var(--background-1);
-  --sn-stylekit-foreground-color: var(--foreground-color);
+  --sn-stylekit-foreground-color: var(--foreground-color-1);
   --sn-stylekit-border-color: var(--border-color);
 
   --sn-stylekit-paragraph-text-color: var(--foreground-color);
 
   --sn-stylekit-contrast-background-color: var(--background-2);
-  --sn-stylekit-contrast-foreground-color: var(--foreground-color);
+  --sn-stylekit-contrast-foreground-color: var(--foreground-color-1);
   --sn-stylekit-contrast-border-color: var(--border-color);
 
   --sn-stylekit-secondary-background-color: var(--background-1);
-  --sn-stylekit-secondary-foreground-color: var(--foreground-color);
+  --sn-stylekit-secondary-foreground-color: var(--foreground-color-1);
   --sn-stylekit-secondary-border-color: var(--border-color);
 
   --sn-stylekit-secondary-contrast-background-color: var(--background-2);
-  --sn-stylekit-secondary-contrast-foreground-color: var(--foreground-color);
+  --sn-stylekit-secondary-contrast-foreground-color: var(--foreground-color-1);
   --sn-stylekit-secondary-contrast-border-color: var(--border-color);
 
   --sn-stylekit-editor-background-color: var(--sn-stylekit-background-color);
@@ -70,13 +68,4 @@
   --sn-desktop-titlebar-border-color: var(--border-color);
   --sn-desktop-titlebar-ui-color: var(--foreground-color);
   --sn-desktop-titlebar-ui-hover-color: var(--highlight-color);
-
-  --sn-stylekit-menu-border: 1px solid #1f5461;
-
-  /* --sn-stylekit-passive-color-0: #a8bdbd;
-  --sn-stylekit-passive-color-1: #93A1A1;
-  --sn-stylekit-passive-color-3: #0d4f60;
-  --sn-stylekit-passive-color-4: #083642;
-  --sn-stylekit-passive-color-4-opacity-variant: #2AA1983d;
-  --sn-stylekit-passive-color-5: #003542; */
 }
