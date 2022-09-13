@@ -1,0 +1,82 @@
+:root {
+  --background-1: #303446;     /* frappe base */
+  --background-2: #292c3c;     /* frappe mantle */
+
+  --foreground-color: #c6d0f5; /* frappe text */
+  --highlight-color: #ca9ee6;  /* frappe mauve */
+  --border-color: #f2d5cf;     /* frappe rosewater */
+  --pre-color: #e78284;        /* frappe red */
+
+  --content-1: #ef9f76;        /* frappe peach */
+  --content-2: #a6d189;        /* frappe green */
+  --content-3: #81c8be;        /* frappe teal */
+  --content-4: #8caaee;        /* frappe blue */
+
+  /* Footer */
+  --footer-bar-border-top-color: 0;
+
+  /* Column Menus */
+  --menu-item-sep-color: rgba(0, 0, 0, 0.1);
+
+  --sn-component-foreground-color: var(--content-1);
+  --sn-component-background-color: var(--border-color);
+  --sn-component-foreground-highlight-color: var(--highlight-color);
+  --sn-component-outer-border-color: transparent;
+  --sn-component-inner-border-color: var(--highlight-color);
+
+  // StyleKit Vars
+  --sn-stylekit-info-color: var(--highlight-color);
+  --sn-stylekit-info-contrast-color: var(--foreground-color);
+
+  --sn-stylekit-neutral-color: #7c7c7c;
+  --sn-stylekit-neutral-contrast-color: white;
+
+  --sn-stylekit-success-color: #2B9612;
+  --sn-stylekit-success-contrast-color: white;
+
+  --sn-stylekit-warning-color: #f6a200;
+  --sn-stylekit-warning-contrast-color: white;
+
+  --sn-stylekit-danger-color: #F80324;
+  --sn-stylekit-danger-contrast-color: white;
+
+  --sn-stylekit-shadow-color: var(--background-2);
+
+  --sn-stylekit-background-color: var(--background-1);
+  --sn-stylekit-foreground-color: var(--foreground-color);
+  --sn-stylekit-border-color: var(--border-color);
+
+  --sn-stylekit-paragraph-text-color: var(--foreground-color);
+
+  --sn-stylekit-contrast-background-color: var(--background-2);
+  --sn-stylekit-contrast-foreground-color: var(--foreground-color);
+  --sn-stylekit-contrast-border-color: var(--border-color);
+
+  --sn-stylekit-secondary-background-color: var(--background-1);
+  --sn-stylekit-secondary-foreground-color: var(--foreground-color);
+  --sn-stylekit-secondary-border-color: var(--border-color);
+
+  --sn-stylekit-secondary-contrast-background-color: var(--background-2);
+  --sn-stylekit-secondary-contrast-foreground-color: var(--foreground-color);
+  --sn-stylekit-secondary-contrast-border-color: var(--border-color);
+
+  --sn-stylekit-editor-background-color: var(--sn-stylekit-background-color);
+  --sn-stylekit-editor-foreground-color: var(--sn-stylekit-foreground-color);
+
+  --sn-stylekit-scrollbar-track-border-color: var(--border-color);
+  --sn-stylekit-scrollbar-thumb-color: var(--sn-stylekit-info-color);
+
+  --sn-desktop-titlebar-bg-color: var(--background-1);
+  --sn-desktop-titlebar-border-color: var(--border-color);
+  --sn-desktop-titlebar-ui-color: var(--foreground-color);
+  --sn-desktop-titlebar-ui-hover-color: var(--highlight-color);
+
+  --sn-stylekit-menu-border: 1px solid #1f5461;
+
+  /* --sn-stylekit-passive-color-0: #a8bdbd;
+  --sn-stylekit-passive-color-1: #93A1A1;
+  --sn-stylekit-passive-color-3: #0d4f60;
+  --sn-stylekit-passive-color-4: #083642;
+  --sn-stylekit-passive-color-4-opacity-variant: #2AA1983d;
+  --sn-stylekit-passive-color-5: #003542; */
+}
