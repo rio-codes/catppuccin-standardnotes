@@ -1,7 +1,7 @@
 {
   "name": "catppuccin-standardnotes",
   "description": "Soothing pastel theme for Standard Notes",
-  "version": "0.1.10-alpha",
+  "version": "0.1.12-alpha",
   "license": "GPL-3.0",
   "main": "main.scss",
    "sn": {

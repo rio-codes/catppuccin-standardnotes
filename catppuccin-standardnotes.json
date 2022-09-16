@@ -3,7 +3,7 @@
   "name": "Catppuccin",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "v0.1.11-alpha",
+  "version": "v0.1.12-alpha",
   "description": "Soothing pastel theme for Standard Notes.",
   "url": "https://raw.githubusercontent.com/rio-codes/catppuccin-standardnotes/main/main.scss",
   "download_url": "https://github.com/rio-codes/catppuccin-standardnotes/archive/refs/tags/v0.1.11-alpha.zip",
