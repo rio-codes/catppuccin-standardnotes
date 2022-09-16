@@ -1,12 +1,12 @@
 {
-  "identifier": "catppuccin-standardnotes",
+  "identifier": "pink.rio.catppuccin-standardnotes",
   "name": "Catppuccin",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "v0.1.12-alpha",
+  "version": "v0.1.13-alpha",
   "description": "Soothing pastel theme for Standard Notes.",
   "url": "https://raw.githubusercontent.com/rio-codes/catppuccin-standardnotes/main/main.scss",
-  "download_url": "https://github.com/rio-codes/catppuccin-standardnotes/archive/refs/tags/v0.1.11-alpha.zip",
+  "download_url": "https://github.com/rio-codes/catppuccin-standardnotes/archive/refs/tags/v0.1.13-alpha.zip",
   "latest_url": "https://raw.githubusercontent.com/rio-codes/catppuccin-standardnotes/main/catppuccin-standardnotes.json",
   "marketing_url": "https://github.com/catppuccin/catppuccin",
   "thumbnail_url": "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png"
@@ -15,6 +15,5 @@
       "background_color": "#303446",
       "foreground_color": "#c6d0f5",
       "border_color": "#292c3c"
-    },
-    "statusBar": "dark-content"
+    }
 }

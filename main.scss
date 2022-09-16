@@ -10,11 +10,10 @@
   --border-color: #f2d5cf;     /* frappe rosewater */
   --pre-color: #e78284;        /* frappe red */
 
-  /* Footer */
-  --footer-bar-border-top-color: 0;
-
-  /* Column Menus */
-  --menu-item-sep-color: rgba(0, 0, 0, 0.1);
+  --content-1: #ef9f76;        /* frappe peach */
+  --content-2: #a6d189;        /* frappe green */
+  --content-3: #81c8be;        /* frappe teal */
+  --content-4: #8caaee;        /* frappe blue */
 
   --sn-component-foreground-color: var(--content-1);
   --sn-component-background-color: var(--border-color);
@@ -24,7 +23,7 @@
 
   // StyleKit Vars
   --sn-stylekit-info-color: var(--highlight-color);
-  --sn-stylekit-info-contrast-color: var(--foreground-color);
+  --sn-stylekit-info-contrast-color: var(--foreground-color-2);
 
   --sn-stylekit-neutral-color: #7c7c7c;
   --sn-stylekit-neutral-contrast-color: white;
@@ -47,11 +46,11 @@
   --sn-stylekit-paragraph-text-color: var(--foreground-color);
 
   --sn-stylekit-contrast-background-color: var(--background-2);
-  --sn-stylekit-contrast-foreground-color: var(--foreground-color-1);
+  --sn-stylekit-contrast-foreground-color: var(--foreground-color-2);
   --sn-stylekit-contrast-border-color: var(--border-color);
 
   --sn-stylekit-secondary-background-color: var(--background-1);
-  --sn-stylekit-secondary-foreground-color: var(--foreground-color-1);
+  --sn-stylekit-secondary-foreground-color: var(--foreground-color-3);
   --sn-stylekit-secondary-border-color: var(--border-color);
 
   --sn-stylekit-secondary-contrast-background-color: var(--background-2);
@@ -66,6 +65,6 @@
 
   --sn-desktop-titlebar-bg-color: var(--background-1);
   --sn-desktop-titlebar-border-color: var(--border-color);
-  --sn-desktop-titlebar-ui-color: var(--foreground-color);
+  --sn-desktop-titlebar-ui-color: var(--foreground-color-1);
   --sn-desktop-titlebar-ui-hover-color: var(--highlight-color);
 }
