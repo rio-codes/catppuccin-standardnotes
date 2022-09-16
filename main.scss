@@ -1,19 +1,19 @@
 :root {
-  --background-1: #303446;     /* frappe base */
-  --background-2: #292c3c;     /* frappe mantle */
+  --background-1: #303446;       // frappe base
+  --background-2: #292c3c;       // frappe mantle
 
-  --foreground-color-1: #c6d0f5; /* frappe text */
-  --foreground-color-2: #b5bfe2; /* frappe subtext1 */
-  --foreground-color-3: #a5adce; /* frappe subtext0 */
-  --highlight-color: #ca9ee6;  /* frappe mauve */
-  --highlight-contrast: #8caaee; /* frappe blue */
-  --border-color: #f2d5cf;     /* frappe rosewater */
-  --pre-color: #e78284;        /* frappe red */
+  --foreground-color-1: #c6d0f5; // frappe text
+  --foreground-color-2: #b5bfe2; // frappe subtext1
+  --foreground-color-3: #a5adce; // frappe subtext0 
+  --highlight-color: #ca9ee6;    // frappe mauve 
+  --highlight-contrast: #8caaee; // frappe blue 
+  --border-color: #f2d5cf;       // frappe rosewater 
+  --pre-color: #e78284;          // frappe red 
 
-  --content-1: #ef9f76;        /* frappe peach */
-  --content-2: #a6d189;        /* frappe green */
-  --content-3: #81c8be;        /* frappe teal */
-  --content-4: #8caaee;        /* frappe blue */
+  --content-1: #ef9f76;          // frappe peach 
+  --content-2: #a6d189;          // frappe green 
+  --content-3: #81c8be;          // frappe teal 
+  --content-4: #8caaee;          // frappe blue 
 
   --sn-component-foreground-color: var(--content-1);
   --sn-component-background-color: var(--border-color);
